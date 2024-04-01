@@ -36,7 +36,7 @@ const mediasoupOptions = {
         ],
     },
     webRtcTransport: {
-        listenIps: [{ ip: "0.0.0.0", announcedIp: "192.168.0.105" }],
+        listenIps: [{ ip: "0.0.0.0", announcedIp: "192.168.0.112" }],
     },
 };
 
